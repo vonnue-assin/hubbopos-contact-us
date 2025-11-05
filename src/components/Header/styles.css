@@ -252,10 +252,6 @@ a {
 }
 
 @media screen and (min-width: 1024px) {
-  .header-main-container {
-    margin-top: -112px;
-  }
-
   .header-menuIcon {
     display: none;
   }
